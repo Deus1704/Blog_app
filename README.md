@@ -1,1 +1,1 @@
-# Blog_app
+# IBP Task - Blog App
